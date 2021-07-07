@@ -1,0 +1,19 @@
+{
+  "name": "rythmfeeder",
+  "version": "1.0.0",
+  "description": "feeds a playlist to discord rythm bot as long as no other song is played by a user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonTraitorSnow/rythmfeeder.git"
+  },
+  "author": "JonTraitorSnow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonTraitorSnow/rythmfeeder/issues"
+  },
+  "homepage": "https://github.com/JonTraitorSnow/rythmfeeder#readme"
+}
